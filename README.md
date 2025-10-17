@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emeliche
-- 👀 I’m interested in Football, DataScience, Python, VR/AR Technologies, Movies, Science.   
+- 👀 I’m interested in VR/AR Technologies, VideoGames, Movies, Science, Football.   
 - 🌱 I’m currently learning Python, DataScience
 - 💞️ I’m looking to collaborate on something interesting!
 - 📫 How to reach me Telegram: @emeliche
